@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;   
+}
+
+body
+{
+    background-color: #051650;
+    color: white;
+    ;
+    
+}
+
+h1{
+    margin: 20px;
+    text-align: center;
+}
+#a1
+{
+    font-size: xx-large;
+}
+
+
+#a2
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: right;
+    color: black;
+    gap: 50px;
+    width: 900px;
+    font-size: medium;
+    margin-left: 150px;
+}
+
+#a11
+{
+    color: white;
+    text-decoration: none;
+    justify-content: center;
+    margin-right: 0.2cm;
+    font-size: x-large;
+}
+
+h2
+{
+    text-align: center;
+}
+
+#Personal_info
+{
+    background-color: #d6eaf8;
+    color: black;
+    text-align: center;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    font-size: large;
+    
+}
+
+#Education
+{
+    text-align: center;
+    background-color:#d6eaf8;
+    color: black;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    font-size: large;
+}
+
+#Skills
+{
+    text-align: center;
+    background-color:#d6eaf8;
+    color: black;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    font-size: large;
+}
+
+
+#Projects
+{
+    text-align: center;
+    background-color:#d6eaf8;
+    color: black;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    font-size: large;
+}
+
+.centered-image img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 250px;
+   height: 320px;
+   border-radius: 20px;
+   
+}
+
+#Contact
+{
+    justify-content: center;
+    text-align: center;
+    color:white;
+    background-color: black;
+    font-size: larger;
+    
+}
+
+#a10
+{
+    text-decoration: none;
+    color: black;
+}
+
+#profile
+{
+     border: 3px solid white;
+}
+header{
+    background-color: black;
+    height: 4cm;
+    
+}
+#name
+{
+    text-align: center;
+    font-size: x-large;
+}
+li:hover
+{   
+    background-color:grey;
+}   
